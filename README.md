@@ -106,6 +106,10 @@ After training on the selected data, you can perform evaluation using following 
 
 [LLaVA Official Evaluation Script](https://github.com/haotian-liu/LLaVA/blob/main/docs/Evaluation.md) — standard pipeline for visual instruction tuning benchmarks.
 
+## Comparisons with Baselines
+
+![Comparisons with Baselines](.asset/comparision_baseline.png)
+
 ## 🙏 Acknowledgements
 
 Thanks to following open-source works:
